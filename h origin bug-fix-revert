@@ -1,0 +1,33 @@
+[33mcommit 2935454cca2f34dd73958663a723e349efb44c71[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbug-fix-revert[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mbug-fix-typo[m[33m)[m
+Author: Rutuja Khandagale <161923726+RutujaKhandagaleVIT@users.noreply.github.com>
+Date:   Sat Aug 10 20:57:10 2024 +0530
+
+    Create simple-interest.sh
+
+[33mcommit a81701d682ff64a2599607e92faeb7a096fdf45b[m
+Author: Rutuja Khandagale <161923726+RutujaKhandagaleVIT@users.noreply.github.com>
+Date:   Sat Aug 10 20:54:41 2024 +0530
+
+    Create CONTRIBUTING.md
+    
+    Add contribution guidelines
+
+[33mcommit 6585b003b39d2c55b5ab2610430f8749d87e023e[m
+Author: Rutuja Khandagale <161923726+RutujaKhandagaleVIT@users.noreply.github.com>
+Date:   Sat Aug 10 20:52:50 2024 +0530
+
+    Create CODE_OF_CONDUCT.md
+
+[33mcommit a9d63040a7491f2b8c26d2a2e01eee8082d0881d[m
+Author: Rutuja Khandagale <161923726+RutujaKhandagaleVIT@users.noreply.github.com>
+Date:   Sat Aug 10 20:35:36 2024 +0530
+
+    Update README.md
+    
+    Updated README with project description
+
+[33mcommit 3317c26fa48df8eed45e8ff3c1c55cba840bfc37[m
+Author: Rutuja Khandagale <161923726+RutujaKhandagaleVIT@users.noreply.github.com>
+Date:   Sat Aug 10 20:22:53 2024 +0530
+
+    Initial commit
